@@ -105,6 +105,8 @@ To avoid binary compatibility issues observed in cross-platform migrations (Wind
 
 # 🛠️ Pre-Execution Patching & Overrides
 
+# ** [Stored in the homeworks/Individual Project/Modified files] **
+
 Before launching the main.py backtest, the following critical patches must be applied to the base repository to ensure compatibility with WSL2 and the Gemini-2.5-Flash multimodal response structure.
 
  * 1. Core Logic & Multimodal Defense
