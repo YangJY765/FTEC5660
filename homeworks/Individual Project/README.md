@@ -251,7 +251,7 @@ This hosts the FastMCP microservices for trading, price retrieval, and news sear
 
 ├── configs/             # JSON configuration for backtest windows
 
-├── data/                # Local CSV price databases (NVDA)
+├── data/                # Local price databases (NVDA)
 
 ├── logs/                # Execution logs from the 3 independent runs
 
